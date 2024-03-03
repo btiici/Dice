@@ -1,0 +1,29 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#game{
+    text-align: center;
+}
+
+input{
+    font-size: 1rem;
+    width: 100px;
+    text-align: center;
+}
+
+button{
+    background-color: rgb(48, 86, 140);
+    color: white;
+    cursor: pointer;
+    padding: 8px 13px;
+}
+
+button:hover {
+    background-color: hsl(215, 49%, 47%);;
+}
+
+img{
+    width: 50px;
+    margin: 5px;
+}
